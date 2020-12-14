@@ -1,5 +1,6 @@
 This example demonstrates how to analyze a simple project built with gradle.
 
+
 Prerequisites
 =============
 * [SonarQube](http://www.sonarqube.org/downloads/) 5.6+
